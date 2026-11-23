@@ -1,0 +1,7 @@
+spacy
+benepar==0.2.0
+nltk
+pandas
+matplotlib
+seaborn
+transformers==4.49.0
